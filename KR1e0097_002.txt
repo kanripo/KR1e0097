@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋稗疏
-#+DATE: 2015-09-23 09:40:31
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:16:48.127473
+#+PROPERTY: ID KR1e0097
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0097_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋稗疏卷二¶
@@ -758,4 +760,3 @@
 　杞縣在河之南與考城相近黄池在此必矣杜云刲¶
 　邱縣南黄池近濟水則在大河之北失之¶
 　春秋稗疏卷二¶
-
